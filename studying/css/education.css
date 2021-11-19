@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  margin: 0;
+}
+
+.container {
+  padding-left: 5px;
+  border: 5px solid black;
+}
+
+.education {
+  width: 200px;
+}
